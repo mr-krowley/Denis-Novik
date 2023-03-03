@@ -1,0 +1,24 @@
+header{
+font-family: Gilroy-Bold;
+font-size: 18px;
+display: flex;
+justify-content: space-around;
+padding: 20px; 
+
+}
+
+.Home{
+color: black;
+}
+.Aboutme{
+  color: #828282;
+}
+.Skills{
+  color: #828282;
+}
+.Portfolio{
+  color: #828282;
+}
+.Contacts{
+  color: #828282;
+}

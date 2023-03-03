@@ -1,0 +1,22 @@
+.section2{
+font-family: Gilroy-Bold;
+font-family: Gilroy-Medium;
+background-color: #F6F6F6;
+padding-bottom: 50px;
+margin-bottom: 50px;
+}
+h2{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  padding: 20px;
+}
+.text2{
+  font-family: Gilroy-Medium;
+  display: flex;
+  justify-content: center;
+
+  text-align: center;
+  color: black;
+  
+}
