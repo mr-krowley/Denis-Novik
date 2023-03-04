@@ -1,0 +1,31 @@
+.section3{
+font-family: Gilroy-Bold;
+font-family: Gilroy-Medium;
+ display: flex;
+     flex-direction: column;
+
+}
+h3{
+text-align: center;
+  color: black;
+  margin-bottom: 50px;
+
+}
+p3{
+  text-align: center;
+  color: black;
+  margin-bottom: 50px;
+}
+
+
+.podsection3{
+display: flex;
+justify-content: space-evenly;
+margin-bottom: 50px;
+}
+    
+
+.Ps{
+
+
+}

@@ -2,9 +2,9 @@ header{
 font-family: Gilroy-Bold;
 font-size: 18px;
 display: flex;
-justify-content: space-around;
-padding: 20px; 
-
+justify-content: space-between;
+padding-top: 20px; 
+margin-bottom: 20px;
 }
 
 .Home{

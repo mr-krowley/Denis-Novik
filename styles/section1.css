@@ -1,20 +1,26 @@
 
 .section1{
+font-family: Gilroy-Medium;
 font-family: Gilroy-Bold;
 display: flex;
- flex-direction: column;
+flex-direction: column;
  margin-bottom: 50px;
 
 }
 H1{
+  font-family: Gilroy-Bold;
   display: flex;
   justify-content: flex-start;
 
 }
 
+
 .text{
+    font-family: Gilroy-Medium;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20px;
 
 }
 .image{

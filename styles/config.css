@@ -11,10 +11,7 @@ a{
   text-decoration: none;
   color: inherit;
 }
-ul,
-ol {
-  list-style-type: none;
-}
+
 
 .container{
   max-width: 940px;
