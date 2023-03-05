@@ -2,10 +2,13 @@
 font-family: Gilroy-Bold;
 font-family: Gilroy-Medium;
  display: flex;
-     flex-direction: column;
+ flex-direction: column;
+ margin-bottom: 50px;
+
 
 }
 h3{
+  font-size: 22px;
 text-align: center;
   color: black;
   margin-bottom: 50px;
@@ -26,6 +29,15 @@ margin-bottom: 50px;
     
 
 .Ps{
-
-
+ text-align: center;
+ 
+}
+.Ai{
+  text-align: center;
+}
+.Ae{
+  text-align: center;
+}
+.Figma{
+  text-align: center;
 }
