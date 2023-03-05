@@ -1,9 +1,10 @@
 .section2{
+font-family: "Gilroy", sans-serif  ;
 font-family: Gilroy-Bold;
 font-family: Gilroy-Medium;
 background-color: #F6F6F6;
 padding-bottom: 50px;
-margin-bottom: 50px;
+margin-bottom: 100px;
 }
 h2{
   font-family: Gilroy-Bold;

@@ -1,11 +1,12 @@
 .section4{
-  
+  font-family: "Gilroy", sans-serif  ;
   display: flex;
   flex-wrap: wrap;
  justify-content: space-around;
- margin-bottom: 50px;
+ margin-bottom: 100px;
 }
 H4{
+  font-family: Gilroy-Bold;
   font-size: 22px;
   margin-bottom: 50px;
 }

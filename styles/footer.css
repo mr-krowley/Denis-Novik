@@ -1,22 +1,26 @@
 .footer{
+  font-family: "Gilroy", sans-serif  ;
    display: flex;
   flex-direction: column;
- justify-content: center;
- text-align: center;
+  justify-content: center;
+  text-align: center;
   color: black;
  
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 
 }
 H5{
- font-size: 22px;
- padding-bottom: 20px;
+  font-family: Gilroy-Bold;
+  font-size: 22px;
+   padding-bottom: 20px;
 
 }
 p6{
+  font-family: Gilroy-Medium;
   padding-bottom: 40px;
 }
 p7{
+  font-family: Gilroy-Medium;
   margin: 0 auto;
   border-radius: 100%;
   border: 1px solid black ;
@@ -27,14 +31,17 @@ p7{
 }
 .img_mini{
   display: flex;
-justify-content: space-evenly;
+  justify-content: space-evenly;
 
-margin-top: 30px;
-margin-bottom: 20px;
+  margin-top: 30px;
+  margin-bottom: 20px;
 
 }
 
 
 p8{
-padding-top: 20px;
+  font-family: Gilroy-Medium;
+  font-size: 12px;
+  padding-top: 20px;
+  color: #828282;
 }
