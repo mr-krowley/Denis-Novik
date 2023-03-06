@@ -1,14 +1,14 @@
 
 .section1{
-font-family: Gilroy-Medium;
-font-family: Gilroy-Bold;
+font-family: "Gilroy-Medium";
+font-family: "Gilroy-Bold";
 display: flex;
 flex-direction: column;
  margin-bottom: 100px;
 
 }
 H1{
-  font-family: Gilroy-Bold;
+  font-family: "Gilroy-Bold";
   display: flex;
   justify-content: flex-start;
 
@@ -16,7 +16,7 @@ H1{
 
 
 .text{
-    font-family: Gilroy-Medium;
+    font-family: "Gilroy-Medium";
     display: flex;
     justify-content: space-between;
     align-items: flex-end;

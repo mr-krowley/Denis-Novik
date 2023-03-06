@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Gilroy";
+  font-family: "Gilroy-Bold";
   src: url("/fonts/Gilroy-Bold.woff2") format("woff2"),
     url("/fonts/Gilroy-Bold.woff") format("woff");
 
@@ -7,7 +7,7 @@
   font-style: normal;
 }
 @font-face {
-  font-family: "Gilroy";
+  font-family: "Gilroy-Medium";
   src: url("/fonts/Gilroy-Medium.woff2") format("woff2"),
     url("/fonts/Gilroy-Medium.woff") format("woff");
 

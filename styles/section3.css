@@ -1,7 +1,7 @@
 .section3{
 font-family: "Gilroy", sans-serif  ;
-font-family: Gilroy-Bold;
-font-family: Gilroy-Medium;
+font-family: "Gilroy-Bold";
+font-family: "Gilroy-Medium";
  display: flex;
  flex-direction: column;
  margin-bottom: 100px;
@@ -9,7 +9,7 @@ font-family: Gilroy-Medium;
 
 }
 h3{
-  font-family: Gilroy-Bold;
+  font-family: "Gilroy-Bold";
   font-size: 22px;
   text-align: center;
   color: black;
@@ -17,7 +17,7 @@ h3{
 
 }
 p3{
-  font-family: Gilroy-Medium;
+  font-family: "Gilroy-Medium";
   text-align: center;
   color: black;
   margin-bottom: 50px;
@@ -43,4 +43,8 @@ margin-bottom: 50px;
 }
 .Figma{
   text-align: center;
+}
+
+.podsection3-3{
+  padding-top: 20px;
 }
