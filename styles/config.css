@@ -16,6 +16,8 @@ a{
 .container{
   max-width: 940px;
   margin: 0 auto;
+ 
+  box-sizing: border-box;
 }
 
 .title{

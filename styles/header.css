@@ -2,12 +2,17 @@ header{
 font-family: "Gilroy", sans-serif  ;
 font-family: Gilroy-Bold;
 font-size: 18px;
-display: flex;
-justify-content: space-between;
-padding-top: 20px; 
-margin-bottom: 20px;
+
+
 }
 
+.items{
+display: flex;
+justify-content: space-between;
+border-bottom: 1px solid #828282;
+padding-bottom: 34px;
+padding-top: 34px;
+}
 .Home{
 color: black;
 }
