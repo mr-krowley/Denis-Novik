@@ -1,30 +1,50 @@
-header{
-font-family: "Gilroy", sans-serif  ;
-font-family: Gilroy-Bold;
-font-size: 18px;
-
-
+header {
+  font-family: "Gilroy", sans-serif;
+  font-family: Gilroy-Bold;
+  font-size: 18px;
 }
 
-.items{
-display: flex;
-justify-content: space-between;
-border-bottom: 1px solid #828282;
-padding-bottom: 34px;
-padding-top: 34px;
+.items {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  border-bottom: 1px solid #828282;
+  padding-bottom: 34px;
+  padding-top: 34px;
 }
-.Home{
-color: black;
-}
-.Aboutme{
+
+.Home {
+  transition: 0.6s linear;
   color: #828282;
 }
-.Skills{
+.Home:hover {
+  color: #070707;
+}
+.Aboutme {
+  transition: 0.6s linear;
   color: #828282;
 }
-.Portfolio{
+.Aboutme:hover {
+  color: #070707;
+}
+.Skills {
+  transition: 0.6s linear;
   color: #828282;
 }
-.Contacts{
+.Skills:hover{
+  color: #070707;
+}
+.Portfolio {
+  transition: 0.6s linear;
   color: #828282;
+}
+.Portfolio:hover{
+  color: #070707;
+}
+.Contacts {
+  transition: 0.6s linear;
+  color: #828282;
+}
+.Contacts:hover{
+  color: #070707;
 }

@@ -3,11 +3,13 @@
   display: flex;
   flex-wrap: wrap;
  justify-content: space-around;
- margin-bottom: 100px;
+padding-bottom:  100px;
+ background: #F6F6F6;
+ text-align: center;
 }
 H4{
   font-family: "Gilroy-Bold";
-  font-size: 22px;
+  font-size: 34px;
   margin-bottom: 50px;
 }
 p4{

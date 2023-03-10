@@ -11,12 +11,14 @@
 }
 H5{
   font-family: Gilroy-Bold;
-  font-size: 22px;
+  font-size: 34px;
+  margin-top: 115px;
    padding-bottom: 20px;
 
 }
 p6{
   font-family: Gilroy-Medium;
+  font-size: 18px;
   padding-bottom: 40px;
 }
 p7{
@@ -26,8 +28,10 @@ p7{
   border: 1px solid black ;
   background-color: black;
   color: aliceblue;
-  padding-bottom: 20px;
-  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 .img_mini{
   display: flex;
