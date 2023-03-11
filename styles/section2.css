@@ -22,3 +22,14 @@ h2 {
   text-align: center;
   color: black;
 }
+@media (max-width: 650px){
+.section2{
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.text2{
+  margin-bottom: 24px;
+}
+
+}

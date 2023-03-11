@@ -11,3 +11,12 @@ p5{
    font-family: "Gilroy-Medium";
    padding-top: 10px;
 }
+@media (max-width: 650px) {
+  .section5 {
+   padding-left: 29px;
+   padding-right: 30px;
+  }
+  .img{
+    width: 100%;
+  }
+}

@@ -1,17 +1,27 @@
-.section4{
-  font-family: "Gilroy", sans-serif  ;
+.section4 {
+  font-family: "Gilroy", sans-serif;
   display: flex;
   flex-wrap: wrap;
- justify-content: space-around;
-padding-bottom:  100px;
- background: #F6F6F6;
- text-align: center;
+  justify-content: space-around;
+  padding-bottom: 100px;
+  background: #f6f6f6;
+  text-align: center;
 }
-H4{
+H4 {
   font-family: "Gilroy-Bold";
   font-size: 34px;
   margin-bottom: 50px;
 }
-p4{
+p4 {
   padding-top: 10px;
 }
+@media (max-width: 650px) {
+  .section4 {
+   padding-left: 29px;
+   padding-right: 30px;
+  }
+  .img{
+    width: 100%;
+  }
+}
+

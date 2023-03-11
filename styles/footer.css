@@ -49,3 +49,10 @@ p8{
   padding-top: 20px;
   color: #828282;
 }
+
+
+@media (max-width: 650px){
+    .img_mini{
+      margin: 0 110px;
+    }
+  }

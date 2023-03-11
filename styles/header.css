@@ -48,3 +48,11 @@ header {
 .Contacts:hover{
   color: #070707;
 }
+
+@media (max-width: 610px) {
+ .header{
+    display: none;
+  }
+
+  
+}

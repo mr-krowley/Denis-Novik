@@ -32,9 +32,21 @@
               24 years old, Minsk
             </p1>
           </div>
-          <div class="image">
-            <img src="/images/section1/image_decstop.webp" alt="Denis" />
-          </div>
+          
+          <picture>
+            <source
+                class="portrait"
+                media="(max-width: 610px)"
+                srcset="/images/section1/image_mobile.webp"
+              />
+              <img
+                class="image"
+                srcset="/images/section1/image_decstop.webp"
+                alt="Author - Photo"
+              />
+          </picture>
+
+
         </section>
     </div>
         <section id="section2" class="section2">
@@ -111,7 +123,7 @@
         <section id="section4" class="section4">
             <div class="container">
           <h4>Portfolio</h4>
-          <img src="/images/section456/section4.webp" alt="section4" />
+          <img class="img" src="/images/section456/section4.webp" alt="section4" media="(max-width: 610px)" />
           <p4> <u>Online fashion store - Homepage</u> </p4>
           </div>
         </section>
@@ -119,7 +131,7 @@
         
         <section class="section5">
            <div class="container">
-          <img src="/images/section456/section5.webp" alt="section5" />
+          <img class="img" src="/images/section456/section5.webp" alt="section5" />
           <p5> <u>Reebok Store - Concept</u></p5>
           </div>
         </section>
@@ -127,7 +139,7 @@
           
         <section class="section6">
           <div class="container">
-          <img src="./images/section456/section6.webp" alt="section6" />
+          <img class="img" src="./images/section456/section6.webp" alt="section6" />
           <p6> <u>Braun Landing Page - Concept</u></p6>
           </div>
         </section>
