@@ -1,4 +1,4 @@
-.section2 {
+.about {
   font-family: "Gilroy", sans-serif;
   font-family: Gilroy-Bold;
   font-family: Gilroy-Medium;
@@ -6,7 +6,7 @@
   padding-bottom: 100px;
   margin-bottom: 105px;
 }
-h2 {
+.about__title {
   font-family: Gilroy-Bold;
   display: flex;
   justify-content: center;
@@ -14,7 +14,7 @@ h2 {
   padding-top: 120px;
   margin-bottom: 18px;
 }
-.text2 {
+.about__text {
   font-family: Gilroy-Medium;
   display: flex;
   flex-flow: column wrap;
@@ -23,12 +23,12 @@ h2 {
   color: black;
 }
 @media (max-width: 650px){
-.section2{
+.about{
     align-items: flex-start;
     flex-direction: column;
 }
 
-.text2{
+.about__text{
   margin-bottom: 24px;
 }
 
