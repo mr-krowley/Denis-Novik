@@ -1,29 +1,26 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body{
+body {
   font-family: "Gilroy", sans-serif;
 }
-a{
+a {
   text-decoration: none;
   color: inherit;
 }
 
-
-.container{
+.container {
   max-width: 940px;
   margin: 0 auto;
- 
   box-sizing: border-box;
 }
 
-.title{
+.title {
   font-size: 34px;
   line-height: 42px;
   text-align: center;
   color: #070707;
 }
-      

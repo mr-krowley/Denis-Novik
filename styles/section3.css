@@ -20,16 +20,22 @@
   font-size: 18px;
   margin-bottom: 70px;
 }
+.skills__cards  {
+ margin: 0 auto;
+}
 
 .podsection {
   display: flex;
-  justify-content: space-evenly;
+  gap: 90px;
   margin-bottom: 84px;
   font-size: 14px;
   color: #828282;
 }
-.podsection__item{
-   text-align: center;
+.podsection__item {
+  text-align: center;
+  border: 1px solid black;
+  
+  
 }
 
 .podsection__star {
@@ -39,42 +45,22 @@
   margin-bottom: 40px;
   margin-top: 25px;
 }
-@media (max-width: 1024px) {
-  .skills {
-    padding: 83px 0 98px;
-
-  }
-  .about__title {
-    margin-bottom: 50px;
-  }
-  .item__text {
-    margin-bottom: 70px;
-  }
-  .podsection {
-    max-width: 75%;
-    margin: 0 auto;
-  }
-  
-  }
+/* @media (max-width: 1024px) {
+ .podsection{
+  display: flex;
+  flex-wrap: wrap;
+    
+ }
+ 
+ 
+} */
 
 @media (max-width: 850px) {
-  .skills{
-    max-width: 75%;
-    margin: 0 auto;
-  }
-  .podsection {
+  .podsection{
+    display: flex;
     flex-direction: column;
-    align-items: center; 
-    justify-content: center;
-    
-  }
-  
-  .podsection__item{
-     margin-bottom: 100px;
-
+     
   }
 
-  .podsection:last-child{
-    margin: 0;
-  }
+
 }

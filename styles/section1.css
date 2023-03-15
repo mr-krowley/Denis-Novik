@@ -37,10 +37,11 @@
   .start {
     margin: 20px;
   }
-  .cap__text {
+  .cap{
     align-items: flex-start;
     flex-direction: column;
   }
+  
   .cap__title {
     margin-bottom: 24px;
   }
